@@ -1,4 +1,4 @@
-# CareerScout for Purushowtham
+# CareerScout
 
 A local job-search starter tailored to your supplied resumes, public GitHub projects and portfolio. It discovers openings from configured public employer feeds, ranks portfolio fit, prepares application/referral drafts, tracks progress, and can send a daily Discord batch.
 
