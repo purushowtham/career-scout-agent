@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Backend Engineering Intern - SYNTHETIC EXAMPLE",
+    "company": "Example Company (not a vacancy)",
+    "location": "Hyderabad, India",
+    "url": "https://example.com/jobs/backend-intern",
+    "description": "Java Spring Boot REST APIs SQL JWT authentication Git testing. Students graduating in 2027 welcome.",
+    "kind": "internship",
+    "eligible_graduation_years": [2027],
+    "source": "synthetic-demo"
+  },
+  {
+    "title": "Senior Backend Engineer - SYNTHETIC EXAMPLE",
+    "company": "Example Company (not a vacancy)",
+    "location": "Bengaluru, India",
+    "url": "https://example.com/jobs/senior",
+    "description": "Java Spring Boot SQL REST APIs Git. Minimum 5 years of professional experience.",
+    "min_experience_years": 5,
+    "source": "synthetic-demo"
+  },
+  {
+    "title": "AI Automation Intern - SYNTHETIC EXAMPLE",
+    "company": "Example Company (not a vacancy)",
+    "location": "Remote, India",
+    "url": "https://example.com/jobs/automation-intern",
+    "description": "Python FastAPI LLM integration n8n automation webhooks Git.",
+    "kind": "internship",
+    "source": "synthetic-demo"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "timezone": "Asia/Kolkata",
+  "digest_hour": 9,
+  "digest_minute": 0,
+  "preferred_notification_channel": "discord",
+  "locations": ["hyderabad", "bengaluru", "bangalore"],
+  "accept_remote": true,
+  "target_types": ["internship", "full_time"],
+  "min_score": 60,
+  "max_recommendations": 10,
+  "import_verification_days": 7,
+  "database": "data/careers.sqlite",
+  "ollama_url": "http://127.0.0.1:11434",
+  "model": "gpt-oss:20b",
+  "greenhouse": [
+    {"company": "Razorpay", "board": "razorpaysoftwareprivatelimited"},
+    {"company": "Rubrik", "board": "rubrik"}
+  ],
+  "lever": [{"company": "Meesho", "site": "meesho", "region": "global"}],
+  "rss": []
+}

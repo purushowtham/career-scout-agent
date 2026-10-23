@@ -1,0 +1,92 @@
+{
+  "name": "Bandi Purushowtham Sai",
+  "university": "Anurag University",
+  "degree": "B.Tech Computer Science / AI & ML",
+  "graduation_year": 2027,
+  "expected_graduation": "2027-05",
+  "home_location": "Hyderabad, India",
+  "portfolio": "https://purushowtham.github.io/portfolio2/",
+  "github": "https://github.com/purushowtham",
+  "linkedin": "https://www.linkedin.com/in/purushowtham-sai-9b562128b/",
+  "professional_experience_years": 0,
+  "experience_note": "Conservative screening value; internships and projects are evidence, not assumed full-time professional tenure.",
+  "cgpa": {"value": 7.4, "confirmed": false},
+  "full_time_internship_availability_confirmed": false,
+  "skills": ["java", "python", "javascript", "typescript", "sql", "spring boot", "rest api", "authentication", "git", "machine learning", "computer vision", "llm", "automation", "fastapi", "flask", "data structures", "testing"],
+  "projects": [
+    {
+      "name": "VaultAPI",
+      "application_summary": "VaultAPI, a Java/Spring Boot API gateway with authentication, provider routing and usage analytics",
+      "url": "https://github.com/purushowtham/VaultAPI",
+      "skills": ["java", "spring boot", "sql", "rest api", "authentication", "llm"],
+      "evidence": "Java/Spring Boot API gateway project with authentication, provider routing and usage analytics; README, backend build file and source tree inspected.",
+      "provenance": ["virtusa (2).pdf", "microsoft.pdf", "PurushowthamSai (ACHNET).pdf", "GitHub README.md and backend/pom.xml"],
+      "caution": "Project presence does not independently verify employment. Confirm whether the internship is external employment or work on your own project."
+    },
+    {
+      "name": "Sign Language Translator",
+      "application_summary": "a sign-language gesture-to-text application using Python, Flask, OpenCV and Scikit-learn",
+      "url": "https://github.com/purushowtham/Sign-language-translator.github.io",
+      "skills": ["python", "flask", "machine learning", "computer vision"],
+      "evidence": "Gesture-to-text project using Python, Flask, OpenCV and Scikit-learn, described in the supplied resumes and portfolio; public Python repository located.",
+      "provenance": ["All five supplied resumes", "Portfolio", "GitHub repository tree"],
+      "caution": "No model accuracy or benchmark verified; do not invent performance numbers."
+    },
+    {
+      "name": "HRM Spring Boot",
+      "application_summary": "an employee-management application built with Java and Spring Boot",
+      "url": "https://github.com/purushowtham/hrm-spring-boot-",
+      "skills": ["java", "spring boot", "rest api", "sql"],
+      "evidence": "Java employee-management project; Spring Web, JPA and Security dependencies inspected in the backend build file.",
+      "provenance": ["Portfolio", "GitHub back/pom.xml"]
+    },
+    {
+      "name": "MonadCLI",
+      "application_summary": "MonadCLI, a TypeScript command-line tool for developer workflows",
+      "url": "https://github.com/purushowtham/monadCLI",
+      "skills": ["typescript", "javascript", "git", "testing"],
+      "evidence": "TypeScript developer CLI with Commander and Viem; README and package file show project scaffolding, contract tooling and Vitest configuration.",
+      "provenance": ["virtusa (2).pdf", "GitHub README.md and package.json"],
+      "caution": "Configured tests do not establish that those tests passed; repository code was not executed."
+    },
+    {
+      "name": "RepoPilot",
+      "application_summary": "RepoPilot, a Python/FastAPI project exploring an issue-to-patch agent workflow",
+      "url": "https://github.com/purushowtham/RepoPIlot",
+      "skills": ["python", "fastapi", "llm", "automation", "testing"],
+      "evidence": "Public README describes an issue-to-patch agent workflow and a Python/FastAPI backend; README and dependency files inspected.",
+      "provenance": ["GitHub README.md and backend/requirements.txt"],
+      "caution": "Project operation, authorship, claimed test counts and impact metrics were not independently validated."
+    },
+    {
+      "name": "MeetMinds",
+      "application_summary": "MeetMinds, an n8n workflow integrating LLMs and webhooks to turn meetings into tasks",
+      "url": "https://purushowtham.github.io/portfolio2/",
+      "skills": ["llm", "automation", "rest api"],
+      "evidence": "Resumes and portfolio describe an n8n/Gemini/Slack workflow that turns meeting discussion into tasks.",
+      "provenance": ["PurushowthamSai (ACHNET).pdf", "PurushowthamSai (principle).pdf", "Portfolio"],
+      "caution": "A corresponding public repository was not located; request a demo or repository before treating this as code-verified evidence."
+    }
+  ],
+  "resume_tracks": {
+    "backend": {
+      "primary": "/Users/bandipurushowtham/resumes/virtusa (2).pdf",
+      "alternative": "/Users/bandipurushowtham/resumes/microsoft.pdf",
+      "guidance": "Use a neutral backend/SDE version. Lead with VaultAPI and HRM/MonadCLI; confirm experience wording and contact details."
+    },
+    "ai_automation": {
+      "primary": "/Users/bandipurushowtham/resumes/PurushowthamSai (ACHNET).pdf",
+      "alternative": "/Users/bandipurushowtham/resumes/PurushowthamSai (principle).pdf",
+      "guidance": "Lead with Sign Language Translator and MeetMinds/RepoPilot; clearly distinguish ML implementation from LLM API integration."
+    }
+  },
+  "confirmation_needed": [
+    "Confirm current CGPA: older March 2025 CV says 7.6; newer resumes and portfolio say 7.4.",
+    "Confirm canonical email: resume and portfolio addresses differ. No email or phone will be autofilled.",
+    "Clarify VaultAPI project versus external internship; confirm organization, dates and your contribution.",
+    "Confirm college approval and available dates for full-time internships, considering any current internship.",
+    "Confirm full-time joining date and degree availability for 2027 graduate roles.",
+    "Update stale second-year/third-year descriptions to current degree status without guessing.",
+    "Review generated wording against your actual contribution; repository metadata is not proof of mastery or employment."
+  ]
+}
